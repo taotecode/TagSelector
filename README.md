@@ -12,6 +12,8 @@ TagSelector 是一款用于 Typecho 的插件，用于方便地添加和管理�
 
 [![p9NwKI0.png](https://s1.ax1x.com/2023/05/05/p9NwKI0.png)](https://imgse.com/i/p9NwKI0)
 
+[![p9NDQit.png](https://s1.ax1x.com/2023/05/05/p9NDQit.png)](https://imgse.com/i/p9NDQit)
+
 ## 用法
 
 ### 安装
