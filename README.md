@@ -32,4 +32,4 @@ TagSelector 是一款用于 Typecho 的插件，用于方便地添加和管理�
 中国大陆用户：
 1.0.0：https://yuanzhu.lanzoub.com/i0T2g0uqrseb
 All Users:
-1.0.0：https://yuanzhu.lanzoui.com/i0T2g0uqrseb
+1.0.0：https://github.com/yuanzhumc/TagSelector/archive/refs/heads/main.zip
