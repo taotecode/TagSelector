@@ -13,7 +13,6 @@ class TagSelector_Plugin implements Typecho_Plugin_Interface
   public static function activate()
   {
     Typecho_Plugin::factory('admin/write-post.php')->bottom = array('TagSelector_Plugin', 'render');
-    Typecho_Plugin::factory('admin/write-page.php')->bottom = array('TagSelector_Plugin', 'render');
   }
 
   public static function deactivate()
